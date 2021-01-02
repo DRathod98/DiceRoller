@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         diceImage = findViewById(R.id.diceImages)
 
     }
-
+// Dice rolling func
     private fun rollDice() {
 
         val randomInt = Random().nextInt(6) + 1;
