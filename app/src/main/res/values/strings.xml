@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decision Maker</string>
+    <string name="roll">Roll</string>
+    <string name="LetsRoll">Let\'s Roll</string>
+    <string name="sassytextview">You pathetic indecisive human! You have again came to me to make your decision! </string>
+    <string name="oddeven">If Odd = No \nEven = Yes</string>
+</resources>
